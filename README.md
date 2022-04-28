@@ -2,14 +2,14 @@
 
 I'm a junior Computer Engineering student at Galatasaray University. <br />
 
-#### :high_brightness:Currently working on:
+#### :chart_with_upwards_trend:Currently working on:
 * Algorithms & Data Structures
 * React.js
 * Biosignal processing with Bitalino
 
 
 
-#### :high_brightness:Also interested in:
+#### :construction:Also interested in:
 *  Machine Learning
 *  Data Science
 *  Unity 3D
