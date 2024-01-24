@@ -1,6 +1,6 @@
 ### Hi there, I'm Dide 👋
 
-I'm a senior Computer Engineering student at Galatasaray University. <br />
+I'm a Computer Engineering graduate from Galatasaray University. <br />
 
 #### :chart_with_upwards_trend:Currently working on:
 * Algorithms & Data Structures
