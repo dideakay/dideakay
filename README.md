@@ -1,17 +1,18 @@
 ### Hi there, I'm Dide 👋
 
-I'm a Computer Engineering graduate from Galatasaray University. <br />
+I'm a Software Engineer. <br />
+I graduated from Galatasaray University Computer Engineering. <br />
 
 #### :chart_with_upwards_trend:Currently working on:
-* Algorithms & Data Structures
-* React.js
-* Biosignal processing with Bitalino
+* Object Oriented Programming
+* Full Stack Development
+* Embedded Systems and IoT
 
 
 
 #### :construction:Also interested in:
-*  Machine Learning
-*  Data Science
+*  AI and Agentic Development
+*  Biosignal Processing
 *  Unity 3D
 
 #### You can reach me from :point_down:
